@@ -18,3 +18,7 @@ This ePortfolio will showcase three artifacts in:
 
 ## Code Review
 <iframe width="600" height="300" src="https://youtu.be/KbfB3YEH6Nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Artifact 1
+This artifact is Software Engineering/Design designed a software for students and teachers to register for classes with CRUD functionality.  This included SIS sequence diagrams to show the process of the user interface.   This artifact was created in January of 2021.  
+[**Artifact 1 Details**](pages/artifact1.md)
