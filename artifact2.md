@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artifact 2
-description: 
+description: Algorithms and Data Structures
 ---
 
 [**Artifact 2 Code**]()
