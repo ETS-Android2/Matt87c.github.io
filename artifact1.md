@@ -4,7 +4,7 @@ title: Artifact 1
 description: Software Design and Engineering
 ---
 
-[**Artifact 1 Code**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/artifact1)
+[**Click here to view Artifact 1**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/artifact1)
 
 # Artifact 1 - Software Design and Engineering
 ## What is this artifact?
