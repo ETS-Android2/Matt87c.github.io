@@ -1,5 +1,5 @@
 # Portfolio
-<img src="">
+<img src="Matt Photo.JPG">
 
 ## Intro
 My name is Matthew Clockel, and I have a bachelors degree in computer science with a major in software engineering from Southern New Hampshire Univeristy. I currently have completed two internships in application development with Centricity and Bankers Insurance Group.  I have been programming in many different languages for over four years.  
