@@ -1,1 +1,15 @@
 theme: jekyll-theme-time-machine
+
+highlighter: rouge
+
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+title : Matthew Clockel ePortfolio
+author :
+  name : Matthew Clockel
+  email : matthew.clockel@snhu.edu
+  github : matt87c
+  
+
+# NOTE: Replacing this next line with your own URL
+production_url : https://matt87c.github.io/portfolio
