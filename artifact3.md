@@ -8,7 +8,7 @@ description: Databases
 
 # Artifact 2 - Databases
 ## What is this artifact?
-The artifact chosen for databases will be from the course DAT-220 Fundamentals of Data Mining.  The artifact will be the final project which was the data mining report for the Bubba Gump Shrimp Company.  The database pertained to customers of the restaurant.   The report allowed a statistical analysis with graphs to discover new information about the data.  This artifact was created in April of 2021.
+The artifact is a data mining report for the Bubba Gump Shrimp Company. The CSV file database is a collection of customer and restaurant information. The data mining report includes a statistical analysis with graphs to discover new information about the data that one may not see looking at the data itself. This artifact was created in April of 2021.
 
 ## Why did I select this artifact?
 This artifact takes a csv file of data and uses JMP software to perform statistical analysis with graphs.  This information is useful for businesses to discover new information about their data one would normally not see within a csv file.  JMP software allows the data to be paired together and find relationships between the pairs.  All this can be helpful for businesses to make better decisions about their company.  This is exactly why I chose this artifact.  I find that this is a skill that can be beneficial to my career by helping other businesses enhance their marketing efforts.
