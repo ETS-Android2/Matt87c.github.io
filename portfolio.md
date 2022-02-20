@@ -19,6 +19,15 @@ This ePortfolio will showcase three artifacts in:
 ## Code Review
 <iframe width="600" height="300" src="https://youtu.be/KbfB3YEH6Nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Artifact 1
-This artifact is Software Engineering/Design designed a software for students and teachers to register for classes with CRUD functionality.  This included SIS sequence diagrams to show the process of the user interface.   This artifact was created in January of 2021.  
-[**Artifact 1 Details**](pages/artifact1.md)
+## Software Design and Engineering
+This artifact are software diagrams for students and teachers to register for classes with CRUD functionality.  This included SIS sequence diagrams to show the process of the user interface.   This artifact was created in January of 2021.  
+[**Artifact 1 Details**](artifact1.md)
+
+## Algorithms and Data Structures
+This artifact is an android application that is an inventory application.  This inventory application has user authentication and credentials.  The inventory app also allows the user to add inventory items with CRUD functionality.  This artifact uses two SQLite databases to store user and inventory item information.  This artifact was created in October of 2021.
+[**Artifact 2 Details**](artifact2.md)
+
+## Databases
+ The artifact is a data mining report for the Bubba Gump Shrimp Company.  The CSV file database is a collection of customer and restaurant information.  The data mining report includes a statistical analysis with graphs to discover new information about the data that one may not see looking at the data itself.  This artifact was created in April of 2021.
+[**Artifact 3 Details**](artifact3.md)
+
