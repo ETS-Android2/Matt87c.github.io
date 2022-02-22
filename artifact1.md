@@ -5,6 +5,7 @@ description: Software Design and Engineering
 ---
 
 [**Click here to view Enhanced Artifact 1**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/artifact1)
+
 [**Click here to view Original Artifact 1**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/originalArtifact1)
 
 # Artifact 1 - Software Design and Engineering
