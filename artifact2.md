@@ -4,7 +4,8 @@ title: Artifact 2
 description: Algorithms and Data Structures
 ---
 
-[**Click here to view Artifact 2**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/artifact2/InventoryApp)
+[**Click here to view Enhanced Artifact 2**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/artifact2/InventoryApp)
+[**Click here to view Original Artifact 2**](https://github.com/Matt87c/Matt87c.github.io/tree/main/Artifacts/originalArtifact2)
 
 # Artifact 2 - Algorithms and Data Structures
 ## What is this artifact?
