@@ -17,7 +17,7 @@ This ePortfolio will showcase three artifacts in:
   I have also completed the Launchcode LC101 course.  This course was a full time six month classroom web development course that teaches full stack skills.  The curriculum included the foundational programming concepts and front-end programming in JavaScript with testing and Angular framework.  The course also taught full-stack web application development using java with Spring Boot frame work and C# with .NET MVC.
 
 ## Code Review
-<iframe width="650" height="400" src="https://www.youtube.com/watch?v=r6bnArzCaMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="400" src="https://www.youtube.com/embed/r6bnArzCaMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 https://www.youtube.com/watch?v=r6bnArzCaMc
 
 ## Software Design and Engineering
