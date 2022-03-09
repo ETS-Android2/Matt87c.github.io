@@ -47,3 +47,5 @@ This artifact is an android application that is an inventory application.  This 
  
 [**Artifact 3 Details**](artifact3.md)
 
+## Awards
+https://meritpages.com/MatthewClockel
