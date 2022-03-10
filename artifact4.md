@@ -8,8 +8,7 @@ description: Search and Rescue Animal Application
 
 # Artifact 4 - Search and Rescue Animal Application
 
-# Search_Rescue_Animal_Application
-About the Project
+## About the Project
 
 The project is for an innovative international rescue-animal training company called Grazioso Salvare.  This software is used to identify dogs that will qualify for the search and rescue training.  The project collects and sorts the animal data from the MongoDB database.  Filtering the data for the desired traits such as age and breed will help find the qualified rescue dogs.   Some dog breeds are more proficient than others for different types of rescues.  Training dogs that are not more than two years has been shown to be more effective.
 The search and rescue animal application is designed to search and filter animals by rescue type and animal breed.  The web application dashboard uses CRUD functionality to filter through the database.  CRUD functionality allows the app to be maintanable for future updates.  The advantages of CRUD functionality is that users will be able to create, read, update, and delete data within the database.  This functionality can be applied to many different applications besides search and rescue animals.  
@@ -17,11 +16,11 @@ The search and rescue animal application is designed to search and filter animal
 The company Grazioso Salvare requested a way to search and filter through thier data for specific types of breeds that meet the requirments to thier search and rescue dog capabilities.  This application will help a Grazioso Salvare by being able to sift through large amounts data about the dogs to select the most capable for the rescue team.  As a computer scientists, one will look at the requirements of the company and provide software solutions to solve problems.
 The radio button filter option allows the user to search for water, mountain, and disaster rescue type breeds.  The table will display all the available dogs for the rescue type chosen.  The dashboard features a geolocation chart and a pie graph that is filled with the selected variables. 
 
-Motivation
+## Motivation
 
 The project exists to provide an efficient way to filter data and find potential candidates for the search and rescue animal training company Grazioso Salvare.  A database can contain a large amount of data.  Applying CRUD functionality with MongoDB to the csv file will help the end user to manage large amounts of data.
 
-Getting Started
+## Getting Started
 
 Creating a local copy of this program will require a Mongo Database.  Python will also be used to integrate the CRUD functionality to the database.  The first step is to create a Mongo Database and the one created is called AAC.  A user with read and write privileges must be assigned to the AAC database.  
 Once this is completed, the AAC database will need data. 
@@ -44,7 +43,7 @@ To create the create and read functionality we included the functionality in the
 
 The challenges were connecting the database and user authentication.  I have found that restarting the MongoDB has helped to clear up the errors.
 
-Installation
+## Installation
 
 The tools needed will include MondoDB, Dash, pymongo, Jupyter Notebook, and the Python command line.  Each one of theses can be installed onto your computer.  Going to the websites directly for theses tools will have an explanation of how to install them.  Here is the links for the tools for installation.
 MongoDB:
@@ -83,11 +82,7 @@ Once user authentication is established for the database, we need to create a us
 
 ![image](https://user-images.githubusercontent.com/35537679/130328239-70468551-76ee-466a-9cd1-fbdb354bacad.png)
 
-Usage
-
-Use this space to show useful examples of how your project works and how it can be used. Be sure to include examples of your code, tests, and screenshots.
-
-Code Example
+## Code Example
 
 CRUD functionality .py file
 
@@ -105,7 +100,7 @@ The .ipynb file is used for testing the dashboard.
 
 ![image](https://user-images.githubusercontent.com/35537679/130328272-4ed621e9-ff58-4311-8ace-41fc49e9edf2.png)
 
-Screenshots
+## Screenshots
 
 Here is the user dashboard.
 
@@ -123,7 +118,7 @@ Disaster Rescue or Individual Tracking filter
 
 ![image](https://user-images.githubusercontent.com/35537679/130328309-8ba5fb2d-007d-4ff9-b168-ff278476839a.png)
 
-Contact
+## Contact
 
 Matthew Clockel
 
