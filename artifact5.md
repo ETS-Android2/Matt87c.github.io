@@ -33,29 +33,29 @@ Once everything is installed, run Visual Studio Code and open the Mission Planne
 ## Code Example
 The code contains four angular components called crew, equipment, experiments, and header.
 
+crew.component.ts 
+![code1](https://user-images.githubusercontent.com/35537679/157575692-0aaa39e5-7335-4443-b6f5-dbf12c2dec08.png)
+
+equipment.component.ts 
+![code2](https://user-images.githubusercontent.com/35537679/157575715-21a989b6-e5ac-4ce9-bf01-f7c902a279e3.png)
+
+experiments.component.ts 
+![code3](https://user-images.githubusercontent.com/35537679/157575727-ee7bfec6-71ec-46c8-b159-e2d7ed523a1b.png)
+
+header.compoentn.ts 
+![code4](https://user-images.githubusercontent.com/35537679/157575736-51d00eca-aa50-450b-a8a3-9b14c71d2812.png)
+
 
 ## Screenshots
 
-Here is the user dashboard.
+This is the Mission Planner dashboard.
+![search 1](https://user-images.githubusercontent.com/35537679/157575887-6d989740-67b1-4436-8769-62c7a8055bbe.png)
 
-![image](https://user-images.githubusercontent.com/35537679/130328282-07e997fa-61eb-4126-835d-6cb75527adff.png)
+The crew members being added to the crew column.
+![search3](https://user-images.githubusercontent.com/35537679/157576110-57a66294-14d3-43fd-96e1-e0e8032e2c36.png)
 
-Water Rescue filter
+The equipment is added and the items that exeed the maximum mass will be faded and unclickable.
+![search 4](https://user-images.githubusercontent.com/35537679/157576232-f4f21100-8691-445d-90a7-726d0a1a65da.png)
 
-![image](https://user-images.githubusercontent.com/35537679/130328285-9d5a6d09-66df-4382-a1a9-7e4b6725bec5.png)
-
-Mountain or Wilderness Rescue filter
-
-![image](https://user-images.githubusercontent.com/35537679/130328288-475f4791-c5b9-4fde-9154-34a0df607b97.png)
-
-Disaster Rescue or Individual Tracking filter
-
-![image](https://user-images.githubusercontent.com/35537679/130328309-8ba5fb2d-007d-4ff9-b168-ff278476839a.png)
-
-## Contact
-
-Matthew Clockel
-
-Matthewclockel@yahoo.com
-
-
+If the maximum amount of ten items is added then the rest of the items will become unclickable.
+![search2](https://user-images.githubusercontent.com/35537679/157576309-9c157b57-9fe9-4ca8-b767-08bb3f5f13b2.png)
