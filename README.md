@@ -6,9 +6,10 @@ My name is Matthew Clockel, and I have a bachelors degree in computer science wi
 
 This ePortfolio will showcase three artifacts in:
 - Software Design and Engineering
-- Algorithms and Data Structures
+- Algorithms and Data Structures (Android Studio, Java)
 - Databases
-- Search and Rescue Animal Application
+- Search and Rescue Animal Application (MongoDB, Python)
+- Mission Planner (Angular, NodeJs)
 
 ## Professional Self-Assessment
   Computer science has always been a passion of mine.  From an early age, I began my journey on an MS-Dos computer loading floppy discs and typing in the command line.  Today I am proficiant in full stacks development.  I obtained my bachelors degree in early 2022.  Southern New Hampshire University has taught me valuable skills in computer science that will excell my professional career.  
@@ -55,3 +56,10 @@ This artifact is an android application that is an inventory application.  This 
  The project is for an innovative international rescue-animal training company called Grazioso Salvare. This software is used to identify dogs that will qualify for the search and rescue training. The project collects and sorts the animal data from the MongoDB database. Filtering the data for the desired traits such as age and breed will help find the qualified rescue dogs. Some dog breeds are more proficient than others for different types of rescues. Training dogs that are not more than two years has been shown to be more effective. The search and rescue animal application is designed to search and filter animals by rescue type and animal breed. The web application dashboard uses CRUD functionality to filter through the database. CRUD functionality allows the app to be maintanable for future updates. The advantages of CRUD functionality is that users will be able to create, read, update, and delete data within the database. This functionality can be applied to many different applications besides search and rescue animals.  This artifact was created in August of 2021.
  
 [**Artifact 4 Details**](artifact4.md)
+
+## Mission Planner
+ The project is for an innovative international rescue-animal training company called Grazioso Salvare. This software is used to identify dogs that will qualify for the search and rescue training. The project collects and sorts the animal data from the MongoDB database. Filtering the data for the desired traits such as age and breed will help find the qualified rescue dogs. Some dog breeds are more proficient than others for different types of rescues. Training dogs that are not more than two years has been shown to be more effective. The search and rescue animal application is designed to search and filter animals by rescue type and animal breed. The web application dashboard uses CRUD functionality to filter through the database. CRUD functionality allows the app to be maintanable for future updates. The advantages of CRUD functionality is that users will be able to create, read, update, and delete data within the database. This functionality can be applied to many different applications besides search and rescue animals.  This artifact was created in August of 2021.
+ 
+[**Artifact 5 Details**](artifact5.md)
+
+
