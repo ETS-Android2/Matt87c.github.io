@@ -54,3 +54,6 @@ The equipment is added and the items that exeed the maximum mass will be faded a
 
 If the maximum amount of ten items is added then the rest of the items will become unclickable.
 ![search2](https://user-images.githubusercontent.com/35537679/157576309-9c157b57-9fe9-4ca8-b767-08bb3f5f13b2.png)
+
+When the mouse hovers over the crew member, the astronaut picture is shown.
+![PXL_20220310_015612788](https://user-images.githubusercontent.com/35537679/157589414-2bd67a33-7a12-4256-b078-08c311e032b1.jpg)
