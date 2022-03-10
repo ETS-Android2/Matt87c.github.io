@@ -44,6 +44,11 @@ The Employer field is a One-to-Many Relationship.  In this application, any one 
 
 ![job annotation](https://user-images.githubusercontent.com/35537679/157594991-32198586-88fe-4c62-8203-beb7ac48af63.png)
 
+Within the Job class the annotation @ManyToOne relationship to Employer class. This field has a many-to-many type relationship with skills.  The @ManyToMany annotation with an argument mappedBy="skills" to ensure this mapping.
+
+![jobs](https://user-images.githubusercontent.com/35537679/157595289-14d23f71-c93b-4921-a399-c6675c4db72b.png)
+
+
 ![job](https://user-images.githubusercontent.com/35537679/157594725-b110f9ad-035d-4ad2-9256-de8dab7b4076.png)
 
 
