@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artifact 5
-description: Mission Planner
+description: Mission Planner (Angular, NodeJs, and Javascript)
 ---
 
 [**Click here to view Artifact 5**](https://github.com/Matt87c/angular-lc101-mission-planner-studio-3)
