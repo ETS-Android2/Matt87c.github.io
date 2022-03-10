@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Artifact 5
-description: Mission Planner 3
+description: Mission Planner
 ---
 
-[**Click here to view Artifact 4**](https://github.com/Matt87c/angular-lc101-mission-planner-studio-3)
+[**Click here to view Artifact 5**](https://github.com/Matt87c/angular-lc101-mission-planner-studio-3)
 
-# Artifact 5 - Mission Planner 3
+# Artifact 5 - Mission Planner
 
 ## About the Project
 
