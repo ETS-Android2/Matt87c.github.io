@@ -37,7 +37,7 @@ equipment.component.ts
 experiments.component.ts 
 ![code3](https://user-images.githubusercontent.com/35537679/157575727-ee7bfec6-71ec-46c8-b159-e2d7ed523a1b.png)
 
-header.compoentn.ts 
+header.component.ts 
 ![code4](https://user-images.githubusercontent.com/35537679/157575736-51d00eca-aa50-450b-a8a3-9b14c71d2812.png)
 
 
