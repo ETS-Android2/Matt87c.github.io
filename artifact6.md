@@ -16,7 +16,7 @@ This application requires Visual Studio Code and NodeJs.
 
 ## Installation
 
-The tools needed will include MondoDB, Dash, pymongo, Jupyter Notebook, and the Python command line.  Each one of theses can be installed onto your computer.  Going to the websites directly for theses tools will have an explanation of how to install them.  Here is the links for the tools for installation.
+The tools needed will include Visual Studio Code and NodeJs.  Both can be downloaded installed onto your computer.  Going to the websites directly for theses tools will have an explanation of how to install them.  Here is the links for the tools for installation.
 Visual Studio Code:
 https://code.visualstudio.com/Download
 NodeJs:
