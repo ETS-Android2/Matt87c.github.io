@@ -4,10 +4,10 @@
 ## Intro
 My name is Matthew Clockel, and I have a bachelors degree in computer science with a major in software engineering from Southern New Hampshire Univeristy. I currently have completed two internships in application development with Centricity and Bankers Insurance Group.  I have been programming in many different languages for over four years.  
 
-This ePortfolio will showcase three artifacts in:
+This ePortfolio will showcase seven artifacts in:
 - Software Design and Engineering
 - Algorithms and Data Structures (Android Studio, Java)
-- Databases
+- Databases (JMP)
 - Search and Rescue Animal Application (MongoDB, Python)
 - Mission Planner (Angular, NodeJs, Typescript, Javascript)
 - Orbit Report (Angular, NodeJs, Typescript, Javascript)
