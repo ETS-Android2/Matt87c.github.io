@@ -9,15 +9,10 @@ description: Mission Planner (Angular, NodeJs, and Javascript)
 # Artifact 5 - Mission Planner
 
 ## About the Project
-
-
-
-## Motivation
-
 The project exists to provide an efficient way to plan for space missions.  The functionality can be applied to many different applications other than space missions.  This function dashboard can be beficial to companys that need to develop crews for certain tasks that require equipent.  
 
 ## Getting Started
-This application requires Visual Studio Code and NodeJs.  
+This application requires Visual Studio Code and NodeJs.  This must be downloaded first.
 
 ## Installation
 
