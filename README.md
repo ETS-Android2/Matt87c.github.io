@@ -9,7 +9,8 @@ This ePortfolio will showcase three artifacts in:
 - Algorithms and Data Structures (Android Studio, Java)
 - Databases
 - Search and Rescue Animal Application (MongoDB, Python)
-- Mission Planner (Angular, NodeJs, Javascript)
+- Mission Planner (Angular, NodeJs, Typescript, Javascript)
+- Orbit Report (Angular, NodeJs, Typescript, Javascript)
 
 ## Professional Self-Assessment
   Computer science has always been a passion of mine.  From an early age, I began my journey on an MS-Dos computer loading floppy discs and typing in the command line.  Today I am proficiant in full stacks development.  I obtained my bachelors degree in early 2022.  Southern New Hampshire University has taught me valuable skills in computer science that will excell my professional career.  
@@ -62,4 +63,8 @@ This artifact is an android application that is an inventory application.  This 
  
 [**Artifact 5 Details**](artifact5.md)
 
+## Orbit Report
+ There are thousands of satellites orbiting the earth. The Orbit is a searchable, sortable table of satellites.  The search form filters search results based on matches to the entered text.  The columns Name and Type are sortable when clicked. This artifact was created in June of 2021.
+ 
+[**Artifact 6 Details**](artifact6.md)
 
