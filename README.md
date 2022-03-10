@@ -11,6 +11,7 @@ This ePortfolio will showcase three artifacts in:
 - Search and Rescue Animal Application (MongoDB, Python)
 - Mission Planner (Angular, NodeJs, Typescript, Javascript)
 - Orbit Report (Angular, NodeJs, Typescript, Javascript)
+- Tech Jobs Console Persistent (Java, Springboot, MySQL Server)
 
 ## Professional Self-Assessment
   Computer science has always been a passion of mine.  From an early age, I began my journey on an MS-Dos computer loading floppy discs and typing in the command line.  Today I am proficiant in full stacks development.  I obtained my bachelors degree in early 2022.  Southern New Hampshire University has taught me valuable skills in computer science that will excell my professional career.  
@@ -59,12 +60,17 @@ This artifact is an android application that is an inventory application.  This 
 [**Artifact 4 Details**](artifact4.md)
 
 ## Mission Planner
- This artifact is a web application that helps plan for space missions.  The user can select up to three candidates to make a crew for the space mission.  When the user clicks the candidate they name is highlighted green and listed under the crew column.  If the user moves the mouse over the crew member, a picture of the astronaut will be shown.  The misson also alows the user to select up to 10 pieces of cargo or maximum of 2000 kg which ever comes first. The add to cargo hold button will fade out and be unclickable if the item will exceed the maximum mass.   The amount of mas available and remaining is displayed and changes as items are added to the cargo hold.  There is an empy hold button that will reset the dashboard.  This artifact was created in June of 2021.
+ This artifact is a web application that helps plan for space missions.  The user can select up to three candidates to make a crew for the space mission.  When the user clicks the candidate they name is highlighted green and listed under the crew column.  If the user moves the mouse over the crew member, a picture of the astronaut will be shown.  The misson also alows the user to select up to 10 pieces of cargo or maximum of 2000 kg which ever comes first. The add to cargo hold button will fade out and be unclickable if the item will exceed the maximum mass.   The amount of mas available and remaining is displayed and changes as items are added to the cargo hold.  There is an empy hold button that will reset the dashboard.  This artifact was created in June of 2020.
  
 [**Artifact 5 Details**](artifact5.md)
 
 ## Orbit Report
- There are thousands of satellites orbiting the earth. The Orbit is a searchable, sortable table of satellites.  The search form filters search results based on matches to the entered text.  The columns Name and Type are sortable when clicked. This artifact was created in June of 2021.
+ There are thousands of satellites orbiting the earth. The Orbit is a searchable, sortable table of satellites.  The search form filters search results based on matches to the entered text.  The columns Name and Type are sortable when clicked. This artifact was created in June of 2020.
  
 [**Artifact 6 Details**](artifact6.md)
+
+## Tech Jobs Console Persistent
+ This is a Spring Boot web application coded in java. This application allows you to browse and search listings of open jobs by employers.  The application connects to MySQL Server database to store user-submitted job data.  This artifact was created in Sept of 2020.
+ 
+[**Artifact 7 Details**](artifact7.md)
 
