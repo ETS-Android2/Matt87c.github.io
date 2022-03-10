@@ -32,9 +32,19 @@ This application contains five controllers shown in this photo.
 The AbstractEntity class holds the fields and methods that are common across the Job class and the classes it contains as fields.
 ![abstract](https://user-images.githubusercontent.com/35537679/157593822-6c1558ab-3260-45ba-9b07-19a467747d51.png)
 
-One-to-Many Relationship
-In this application, any one Job object is affiliated with one employer while one Employer may contain several jobs.
+Models
+The employer and skill information about a particular job will be stored in classes themselves. These items themselves will hold their own supplementary information.
+The Employer class extends AbstractEntity class.  Inheritance
+![employer](https://user-images.githubusercontent.com/35537679/157594173-05a9f793-e588-4a02-ae79-b9545102daf7.png)
 
+The Skill class extends AbstractEntity class.  Inheritance
+![skill](https://user-images.githubusercontent.com/35537679/157594231-0b893950-54e0-4b75-ac1f-5b251d7e25cd.png)
+
+The Employer field is a One-to-Many Relationship.  In this application, any one Job object is affiliated with one employer while one Employer may contain several jobs.  Within the Employer class the annotations @OneToManyand @JoinColumn are on the jobs list in Employer to declare the relationship between data tables
+
+![job annotation](https://user-images.githubusercontent.com/35537679/157594991-32198586-88fe-4c62-8203-beb7ac48af63.png)
+
+![job](https://user-images.githubusercontent.com/35537679/157594725-b110f9ad-035d-4ad2-9256-de8dab7b4076.png)
 
 
 ## Screenshots
