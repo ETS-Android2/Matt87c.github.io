@@ -8,7 +8,7 @@ This ePortfolio will showcase seven artifacts in:
 - Software Design and Engineering
 - Algorithms and Data Structures (Android Studio, Java)
 - Databases (JMP)
-- Search and Rescue Animal Application (MongoDB, Python)
+- Search and Rescue Animal Application (MongoDB, Python, Dash, Pymongo, Jupyter Notebook)
 - Mission Planner (Angular, NodeJs, Typescript, Javascript)
 - Orbit Report (Angular, NodeJs, Typescript, Javascript)
 - Tech Jobs Console Persistent (Java, Springboot, MySQL Server)
