@@ -26,6 +26,7 @@ https://www.mysql.com/downloads/
 Once MySQL Server is downloaded and installed, Start MySQL Workbench and create a new schema named techjobs.  In the administration tab, create a new user, techjobs.  Update build.gradle with the necessary dependencies.  Update src/resources/application.properties with the right info. This will include spring.datasource.url set to the address of your database connection, as well as the username and password for a user you have created.
 ## Code Example
 This application contains five controllers shown in this photo.
+
 ![controllers](https://user-images.githubusercontent.com/35537679/157592894-63559974-38c0-4cac-a2c7-073bfac94aa8.png)
 
 The AbstractEntity class holds the fields and methods that are common across the Job class and the classes it contains as fields.
