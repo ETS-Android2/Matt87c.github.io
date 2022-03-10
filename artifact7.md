@@ -9,7 +9,7 @@ description: Tech Jobs Console Persistent (Java, Spring Boot, MySQL Server)
 # Artifact 7 - Tech Jobs Console Persistent
 
 ## About the Project
-
+This is a Spring Boot web application coded in java. This application allows you to browse and search listings of open jobs by employers. The application connects to MySQL Server database to store user-submitted job data. This artifact was created in Sept of 2020.
 
 ## Getting Started
 This application requires IntelliJ, Spring Boot, and MySQL Server.  
@@ -17,6 +17,7 @@ This application requires IntelliJ, Spring Boot, and MySQL Server.
 ## Installation
 Download IntelliJ from here:
 https://www.jetbrains.com/idea/download/?fromIDE=#section=windows
+
 
 Set up a local copy of the project.  You can fork the project from my github or download the zip.  Open IntelliJ and you can use version control > GitHub to fork the repository.  Store the project in the parent directory where you would like and hit clone.  When asked Would you like to create an IDEA project… select Yes, and then accept all of the default options presented.  In the screens that follow, be sure to choose Create Project From Existing Sources on the first pane, and select the default values of all following panes.
 
