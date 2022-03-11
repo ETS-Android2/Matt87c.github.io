@@ -61,6 +61,12 @@ Here is the User interface of the Tech Jobs application.  This shows the availab
 The user selects the list tab, this will be shown.  The user can click on view all, employers, or skills.  When the user clicks on any of these, a page will be show that shows what is in the data base for the selected field.
 ![ui 2](https://user-images.githubusercontent.com/35537679/157898939-5268620f-5ed5-4029-a9fa-04e37d75da5c.png)
 
+If the user clicks view all we get a nice display of all vailable jobs.
+![listTableOptions](https://user-images.githubusercontent.com/35537679/157591727-aec8bd9e-cd46-4b31-832d-914a22f37daa.png)
+
+Within these tabs we will get a layout of the job description.
+![list-jobsTableOptions](https://user-images.githubusercontent.com/35537679/157591769-222cfd75-2c44-463d-b6ed-6497e9ad7861.png)
+
 If the user clicks add jobs tab, then this page is shown. Lets run a test adding an Amazon job into the MySQL database. 
 ![ui add](https://user-images.githubusercontent.com/35537679/157900147-4d0e4772-c07c-43a3-a230-503153bc4408.png)
 
@@ -91,7 +97,7 @@ Once the employer clicks to add a job the available position will now show up in
 
 
 
-![listTableOptions](https://user-images.githubusercontent.com/35537679/157591727-aec8bd9e-cd46-4b31-832d-914a22f37daa.png)
 
-![list-jobsTableOptions](https://user-images.githubusercontent.com/35537679/157591769-222cfd75-2c44-463d-b6ed-6497e9ad7861.png)
+
+
 
