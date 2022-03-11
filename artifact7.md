@@ -30,7 +30,7 @@ This application contains five controllers shown in this photo.
 
 ![controllers](https://user-images.githubusercontent.com/35537679/157592894-63559974-38c0-4cac-a2c7-073bfac94aa8.png)
 
-The AbstractEntity class holds the fields and methods that are common across the Job class and the classes it contains as fields.
+Here we declared an abstract class.  The AbstractEntity class holds the fields and methods that are common across the Job class and the classes it contains as fields.
 ![abstract](https://user-images.githubusercontent.com/35537679/157593822-6c1558ab-3260-45ba-9b07-19a467747d51.png)
 
 Models
