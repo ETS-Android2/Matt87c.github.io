@@ -100,4 +100,5 @@ Now lets look at the backend and run SQL commands to make sure the data is being
 Now lets see if the employer has been added.  I used a simple query to find the employer Amazon that we added.  We can see that amazon is in the database from Tampa Florida which is the location that has been added.
 ![mysql employername](https://user-images.githubusercontent.com/35537679/157905900-d22341c5-b2f2-445a-86b2-694e42a9d346.png)
 
-
+Finally, lets check that the job has been added to the database.  The query has been successful finding the added Software Engineer III job in the MySQL database.
+![mysql job](https://user-images.githubusercontent.com/35537679/157906471-1e29dc6e-6fbd-4417-8383-c20a941b3b70.png)
