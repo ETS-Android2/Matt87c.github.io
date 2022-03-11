@@ -94,10 +94,10 @@ The box is now selectable to add Python skills to add to the job description.
 Once the employer clicks to add a job the available position will now show up in the TechJobs database to click and view.
 ![ui software engineer](https://user-images.githubusercontent.com/35537679/157902357-34f72ebe-286a-4da4-9737-d1be036e1cb8.png)
 
+Now lets look at the backend and run SQL commands to make sure the data is being added to the database.  As you can see from this query the skill name Python is the database and the description of Python3 is listed.  This shows the the app is functioning in the back end and able to pull up the skills we added.
+![sql commands](https://user-images.githubusercontent.com/35537679/157904571-517bbe7c-3281-4cf4-aebf-a27fac9b9474.png)
 
-
-
-
-
+Now lets see if the employer has been added.  I used a simple query to find the employer Amazon that we added.  We can see that amazon is in the database from Tampa Florida which is the location that has been added.
+![mysql employername](https://user-images.githubusercontent.com/35537679/157905900-d22341c5-b2f2-445a-86b2-694e42a9d346.png)
 
 
