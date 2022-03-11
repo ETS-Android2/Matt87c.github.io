@@ -35,10 +35,10 @@ The AbstractEntity class holds the fields and methods that are common across the
 
 Models
 The employer and skill information about a particular job will be stored in classes themselves. These items themselves will hold their own supplementary information.
-The Employer class extends AbstractEntity class.  Inheritance
+The Employer class extends AbstractEntity class. 
 ![employer](https://user-images.githubusercontent.com/35537679/157594173-05a9f793-e588-4a02-ae79-b9545102daf7.png)
 
-The Skill class extends AbstractEntity class.  Inheritance
+The Skill class extends AbstractEntity class. 
 ![skill](https://user-images.githubusercontent.com/35537679/157594231-0b893950-54e0-4b75-ac1f-5b251d7e25cd.png)
 
 The Employer field is a One-to-Many Relationship.  In this application, any one Job object is affiliated with one employer while one Employer may contain several jobs.  Within the Employer class the annotations @OneToManyand @JoinColumn are on the jobs list in Employer to declare the relationship between data tables
@@ -55,7 +55,41 @@ Within the Job class the annotation @ManyToOne relationship to Employer class. T
 
 ## Screenshots
 
-![techJobsMvcHome](https://user-images.githubusercontent.com/35537679/157591719-7abfbea4-954b-4762-8928-cff66f42554b.png)
+Here is the User interface of the Tech Jobs application.  This shows the available tech jobs in the database.  
+![ui 1](https://user-images.githubusercontent.com/35537679/157898910-0983e92d-d454-4c14-ada7-052502b2d5e9.png)
+
+The user selects the list tab, this will be shown.  The user can click on view all, employers, or skills.  When the user clicks on any of these, a page will be show that shows what is in the data base for the selected field.
+![ui 2](https://user-images.githubusercontent.com/35537679/157898939-5268620f-5ed5-4029-a9fa-04e37d75da5c.png)
+
+If the user clicks add jobs tab, then this page is shown. Lets run a test adding an Amazon job into the MySQL database. 
+![ui add](https://user-images.githubusercontent.com/35537679/157900147-4d0e4772-c07c-43a3-a230-503153bc4408.png)
+
+This is shown when the user selects the search tab.  This page allows the user to search a keyword within the database in the skill database, employer database, or all databases.  We must click add Employer first to make this available in the drop down menu to choose from.
+![ui search](https://user-images.githubusercontent.com/35537679/157899777-8036af4e-d9ae-4a7e-b494-68145c72ba3b.png)
+
+After the add employer link is clicked this page will be shown. 
+![ui add employer](https://user-images.githubusercontent.com/35537679/157900726-abcf0155-a4d3-4eda-bbc7-2f07aa78c6f7.png)
+
+Lets input the Employer Name and Employer Location which is Amazon Tampa Florida and click Add Employer.
+![ui add employer tampa](https://user-images.githubusercontent.com/35537679/157900902-05973587-93e2-45e3-b091-ec27f9ae67da.png)
+
+Now the employer name and location are saved into the MySQL database. The Amazon employer is now listed in the drop down menu to select to add a job.
+![ui employer amazon dropdown](https://user-images.githubusercontent.com/35537679/157901364-44026f45-d771-4334-b58a-b02e1878e9e8.png)
+
+The employer may need to add a skill to the job description.  Lets add python to the job skills.
+![ui add skill python](https://user-images.githubusercontent.com/35537679/157901773-5344478f-0eee-43be-b54c-714172da13d2.png)
+
+Now Python is in the MySQL database and available for selection for this job.
+![ui Python skill](https://user-images.githubusercontent.com/35537679/157901840-a146cab4-586c-4366-8ed3-0f9e40402427.png)
+
+The box is now selectable to add Python skills to add to the job description.
+![ui python skills](https://user-images.githubusercontent.com/35537679/157902190-ed79f0e6-7e1a-4417-b217-6545575aa179.png)
+
+Once the employer clicks to add a job the available position will now show up in the TechJobs database to click and view.
+![ui software engineer](https://user-images.githubusercontent.com/35537679/157902357-34f72ebe-286a-4da4-9737-d1be036e1cb8.png)
+
+
+
 
 ![listTableOptions](https://user-images.githubusercontent.com/35537679/157591727-aec8bd9e-cd46-4b31-832d-914a22f37daa.png)
 
